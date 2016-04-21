@@ -5,7 +5,6 @@ You can see the Demo here: http://web.kupibo.com.ua/demo/js/words/index.html
 #### You should add:
 
   - jquery-1.11.0.min.js
-  - jquery-ui.js
   - jquery.words.css
   - jquery.words.js
 
