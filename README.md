@@ -1,6 +1,6 @@
 # Words - Simple Words and Icons for the web developers.
 
-You can see the Demo here: http://web.kupibo.com.ua/demo/js/words/index.html
+You can see the Demo here: http://web.kupibo.com.ua/_demo/js/words/
 
 #### You should add:
 
